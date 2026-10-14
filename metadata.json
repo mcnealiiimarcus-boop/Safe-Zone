@@ -1,0 +1,6 @@
+{
+  "name": "Safe Zone",
+  "description": "Personal safety & emergency response web application featuring real-time Safe Zones, instant SOS beacons, safety timers, and emergency resources.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
